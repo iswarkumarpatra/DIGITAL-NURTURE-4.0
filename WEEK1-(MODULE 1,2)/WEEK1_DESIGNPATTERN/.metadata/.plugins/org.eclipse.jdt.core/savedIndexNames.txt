@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\iswar\Desktop\COGNIZANT-DIGITAL-NURTURE 4.0\WEEK1-(MODULE 1,2)\WEEK1_DESIGNPATTERN\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2869710735.index
+1288848795.index
